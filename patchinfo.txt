@@ -125,6 +125,7 @@ D3DX9_43.dll f5944df4142983714a6d9955e6e393d9876c1e11
 DataTable\BlockData.dat 9069ca78e7450a285173431b3e52c5c25299e473
 DataTable\Character.edf b821c7f7ac04dc0ca1ca35e697ac93211c5877d2
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
+DataTable\en-gb\ui.lang 199ce1a3e7c0407cfe7d55c9d804c1a99178aa8e
 DataTable\en-ph\Apa.dic d35e3d88b81ad2510edb78f99076b76459b09d76
 DataTable\en-ph\ar.scp 3029a728a9f9abecb4429ebf8c41bb585537557a
 DataTable\en-ph\as.scp 62389094d04279403c537fb184acd6b5ee5317f1
@@ -168,7 +169,7 @@ DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
 DataTable\en-ph\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
-DataTable\en-ph\ui.lang 8cdfcbd7e770036ff08c179170086b3046be8ea6
+DataTable\en-ph\ui.lang 199ce1a3e7c0407cfe7d55c9d804c1a99178aa8e
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-ph\UITranslation.htm dd04b2e11dcf5b843eadc6fb059b386abe5bcb81
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
@@ -191,6 +192,7 @@ DataTable\SkillForce.edf fa7a14bd0f354405f7a30bd06c91cadd3904fc45
 DataTable\Store.edf 0390e1837e1beb94b9b522e08cec2daa38eb3d9a
 DataTable\UITranslation.htm 53311ebe1fb4460242f258aafa2b9ff917775ec8
 Effect\item\rift_exit_mag.spt 9812fe3197840d790760a4c47d59a16927371884
+Effect\ReadMe.txt ddda47dbdd95298a58bf5d0a15e936f25fa912de
 Item\armor\ani\ACCRETIA_ARMOR_CLOAK_00X_DEFAULT.ANI f8942ba5e0a80c72319252f3d2e81f4f2b05ec64
 Item\armor\ani\ACCRETIA_ARMOR_CLOAK_00X_EQUIP.ANI a5d577868c46f901e172cc949a5f87d23eaa9d43
 Item\armor\ani\BELFEMALE_ARMOR_CLOAK_00X_DEFAULT.ANI e4c41dc385c1d43ae79cf2bfd7021015bbcfeee9
@@ -202,7 +204,7 @@ Item\armor\ani\CORMALE_ARMOR_CLOAK_00X_EQUIP.ANI a5d577868c46f901e172cc949a5f87d
 RF_NostalgicFix.exe 578ad1e506f5bed55f0b58a8a1a542d73b365088
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sciter.dll 63b9ddb91649336acd1cc3c9eb1355d2dc5f7a12
-sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
+sirin-launcher.dll 8e90d4ddf12875d6091a12440fb21e0db5c0fe98
 SpriteImage\common\item.spr f3717dede13eef2b1d6a355127b0b5b13be37bd3
 SpriteImage\common\itemmake.spr 1174b20fc91b9c8648e98da9bbeb26fd7346a98c
 SpriteImage\common\worldmap\map1_2.spr c0996e253d11d9a70585c416b6b50911c39f87bf
