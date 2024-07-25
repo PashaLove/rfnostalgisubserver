@@ -11,7 +11,7 @@ DataTable\en-gb\NDMsgEvent.edf 20a5fa4b56f65e01ad96bffe5be16c773ae1cb35
 DataTable\en-gb\NDMsgMonster.edf 72756e7c0743b6446862c5162026e7f986177b87
 DataTable\en-gb\NDQuest.edf df6c963b94b72cf41d48a4887e6977c1eac5565f
 DataTable\en-gb\NDSkillForce.edf 12011f183e4dd095828ff6da7e48b8a2020251d9
-DataTable\en-gb\NDStore.edf 901054efedb04a9a9dd3bd68c9a1d110736d7f31
+DataTable\en-gb\NDStore.edf 6acb60e7694dc34cab6be0542b982a04e7df0b95
 DataTable\en-gb\ui.lang a0016e32a3d66c492ce065ddf736b02a5ad0507d
 DataTable\EventShip.edf 5f59f17d118278e3a7b462e1a0ff112948a88a01
 DataTable\Item.edf 0d9534f1ed91c5dccc2f0b92d74718179c00e4c1
