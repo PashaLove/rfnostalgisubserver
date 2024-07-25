@@ -1,4 +1,4 @@
-d3d9.dll efb45065e8bb90c92581ac4a1742eac4e147ab16
+d3d9.dll 639df72f400083a1ce3d09c6d7a03b56c415de92
 DataTable\Character.edf 727b71982f737029f49027712648811f878d837f
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-gb\NDCharacter.edf 2569006b7fd4ed97d26afafab77ec99c26fc1789
@@ -26,7 +26,7 @@ DataTable\PlayerCharacter.edf b6b4f98aa9a7b0f8d2205ebc63277206c3327e6f
 DataTable\Quest.edf f64d6f1e5c308a1d0e4735865f1a42adc317b935
 DataTable\Resource.edf e5a40495c9bb9954bdba25f3125a3f4d3e2e2a42
 DataTable\SkillForce.edf df8e5a394ec2ffff8156a12cd00489fc17016509
-DataTable\Store.edf c9b0c05c1e54a7301808b685d1b567bf58b009bd
+DataTable\Store.edf 74e40be6fcb2646ba6ed6fed273f8b2c75c575fd
 Effect\item\rift_exit_mag.spt 9812fe3197840d790760a4c47d59a16927371884
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
