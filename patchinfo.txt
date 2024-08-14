@@ -113,3 +113,12 @@ sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
 SpriteImage\common\item.spr f3717dede13eef2b1d6a355127b0b5b13be37bd3
 SpriteImage\en-ph\loading.spr aa82a700fe051b489a554a2908826ed2b226c3f8
 vc_redist.x86.exe ab4a97610b127d68c45311deabfbcd8aa7066f4b
+Map\Elan2\elan2.sef.BSP ed078303ae5b89f456030b1e0e419818f769eb88
+Map\Elan2\elan2.r3m ec57203465d2d0a018ea7f315a6fd9e4c4d48732
+Map\Elan2\elan2.r3t 9b7da3e3f33ac2606ef0c1d99e5dae1c326b6fbf
+Map\Elan2\sky\elan2sky.r3e 59bdaffb78ebf30d302ad8484c98f095cbdd92b9
+Map\Elan2\sky\elan2sky.r3m 1115bca5ddf99ca4244a4c5e732d24ec49d9f51e
+Map\Elan2\sky\elan2sky.r3t 1d22164bce8fa3f6efd4e278dd5f953dfc379767
+Map\Elan2\elan2.BSP b6634e8b681c19dd61ba82f765e7300b78e6c863
+Map\Elan2\elan2.ebp b6634e8b681c19dd61ba82f765e7300b78e6c863
+Map\Elan2\elan2Lgt.R3T 2f2219c64f3caddeb3143ac2325e088a605a3231
