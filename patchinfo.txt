@@ -344,7 +344,7 @@ Map\neutralC\NeutralC.ebp 8ac8506b163405df53b1e56195ccecbe187d795f
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
 SpriteImage\en-gb\item.spr 7af302406a5264d866d85d0debdd51f2645a484b
-SpriteImage\en-gb\loading.spr aa82a700fe051b489a554a2908826ed2b226c3f8
+SpriteImage\en-gb\loading.spr 6ddbd8c6fb55a34397c602c4edab63ec5b98f570
 SpriteImage\en-ph\item.spr 7af302406a5264d866d85d0debdd51f2645a484b
-SpriteImage\en-ph\loading.spr aa82a700fe051b489a554a2908826ed2b226c3f8
+SpriteImage\en-ph\loading.spr 6ddbd8c6fb55a34397c602c4edab63ec5b98f570
 vc_redist.x86.exe ab4a97610b127d68c45311deabfbcd8aa7066f4b
