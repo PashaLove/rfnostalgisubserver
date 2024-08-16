@@ -134,8 +134,8 @@ DataTable\en-gb\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-gb\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-gb\NDCharacter.edf 8ca10dd77ecc21686f8942512f4249040401d9e6
 DataTable\en-gb\NDEventShip.edf ed1171f79b6202a4b55b787d1f11efbd0f4e8051
-DataTable\en-gb\NDItem.edf de3e83180b0279d1a4d7ac1167ce96b77ef1b754
-DataTable\en-gb\NDItemCash.edf fe70ec22d37505e3a59a904652fcb2ce821319df
+DataTable\en-gb\NDItem.edf 4e1b43f5ba61dec4a922ccf61fdf816ab6101eb7
+DataTable\en-gb\NDItemCash.edf 46042a8d1949a761a82343611e84bc22c7418e15
 DataTable\en-gb\NDLanguage.edf 2f8f145ba07d5549cb8e238148bdc0eb33e34b01
 DataTable\en-gb\NDMap.edf 5c4f1fd6fa33f2a765cc2afeb2f5befafc724fb9
 DataTable\en-gb\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
@@ -180,8 +180,8 @@ DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 8ca10dd77ecc21686f8942512f4249040401d9e6
 DataTable\en-ph\NDEventShip.edf ed1171f79b6202a4b55b787d1f11efbd0f4e8051
-DataTable\en-ph\NDItem.edf de3e83180b0279d1a4d7ac1167ce96b77ef1b754
-DataTable\en-ph\NDItemCash.edf fe70ec22d37505e3a59a904652fcb2ce821319df
+DataTable\en-ph\NDItem.edf 4e1b43f5ba61dec4a922ccf61fdf816ab6101eb7
+DataTable\en-ph\NDItemCash.edf 46042a8d1949a761a82343611e84bc22c7418e15
 DataTable\en-ph\NDLanguage.edf 2f8f145ba07d5549cb8e238148bdc0eb33e34b01
 DataTable\en-ph\NDMap.edf 5c4f1fd6fa33f2a765cc2afeb2f5befafc724fb9
 DataTable\en-ph\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
@@ -197,8 +197,8 @@ DataTable\en-ph\ui.lang a0016e32a3d66c492ce065ddf736b02a5ad0507d
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf b6423024dcc4e6e0b480456dfe050092b9ad6d18
-DataTable\Item.edf 1940ba6e974608bd687d83e43dc25330b2f375c0
-DataTable\ItemCash.edf b15e5118150296cf5e93bd9d1a4f64fb3a6595aa
+DataTable\Item.edf f08a730daafdefe2596b9c207b964233c023a83b
+DataTable\ItemCash.edf 59b7ff05ca3efa6e086d54a59e32eb68c9835989
 DataTable\ItemCombine.edf 1dce828a9272083ad647fb7667cc4e213e5355dd
 DataTable\ItemPremium.edf b0b96a00f4afb1ee6dcb2a4dfaaa7398c1d47bda
 DataTable\ItemSetEffect.edf 48ebf9ab0d7b1b207721bc7b83927340cc1c42c9
@@ -343,8 +343,8 @@ Map\neutralB\NeutralB.ebp 021966935e6bf806e71bcc2ea44d28972ceaa886
 Map\neutralC\NeutralC.ebp 8ac8506b163405df53b1e56195ccecbe187d795f
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
-SpriteImage\en-gb\item.spr 10386940095866463e1f74f1639ba64b83740396
+SpriteImage\en-gb\item.spr 7af302406a5264d866d85d0debdd51f2645a484b
 SpriteImage\en-gb\loading.spr aa82a700fe051b489a554a2908826ed2b226c3f8
-SpriteImage\en-ph\item.spr 10386940095866463e1f74f1639ba64b83740396
+SpriteImage\en-ph\item.spr 7af302406a5264d866d85d0debdd51f2645a484b
 SpriteImage\en-ph\loading.spr aa82a700fe051b489a554a2908826ed2b226c3f8
 vc_redist.x86.exe ab4a97610b127d68c45311deabfbcd8aa7066f4b
