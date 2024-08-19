@@ -140,7 +140,7 @@ DataTable\en-gb\NDLanguage.edf 2f8f145ba07d5549cb8e238148bdc0eb33e34b01
 DataTable\en-gb\NDMap.edf 5c4f1fd6fa33f2a765cc2afeb2f5befafc724fb9
 DataTable\en-gb\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
 DataTable\en-gb\NDMsgMonster.edf 1a037acb50abd057b31018b62b8cc765ebea9c1c
-DataTable\en-gb\NDQuest.edf a744c63db067b67843761062bce1fa0d52f8c61d
+DataTable\en-gb\NDQuest.edf e16b753ffdc904a5e48b7207facf36230c02331a
 DataTable\en-gb\NDSkillForce.edf ff3901ab941d6f0738e775e77d28c6f268bd3746
 DataTable\en-gb\NDStore.edf e75e2cee4287c3f59298376fb4e10cf3f115d3eb
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
@@ -186,7 +186,7 @@ DataTable\en-ph\NDLanguage.edf 2f8f145ba07d5549cb8e238148bdc0eb33e34b01
 DataTable\en-ph\NDMap.edf 5c4f1fd6fa33f2a765cc2afeb2f5befafc724fb9
 DataTable\en-ph\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
 DataTable\en-ph\NDMsgMonster.edf 1a037acb50abd057b31018b62b8cc765ebea9c1c
-DataTable\en-ph\NDQuest.edf a744c63db067b67843761062bce1fa0d52f8c61d
+DataTable\en-ph\NDQuest.edf e16b753ffdc904a5e48b7207facf36230c02331a
 DataTable\en-ph\NDSkillForce.edf ff3901ab941d6f0738e775e77d28c6f268bd3746
 DataTable\en-ph\NDStore.edf e75e2cee4287c3f59298376fb4e10cf3f115d3eb
 DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
