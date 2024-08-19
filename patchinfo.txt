@@ -134,7 +134,7 @@ DataTable\en-gb\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-gb\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-gb\NDCharacter.edf 244a08ff526ba1285a7ab17cb3aa1ec16f3c0870
 DataTable\en-gb\NDEventShip.edf ed1171f79b6202a4b55b787d1f11efbd0f4e8051
-DataTable\en-gb\NDItem.edf 135fa7aa1de6d8586b16700dbe6fa39caa47d901
+DataTable\en-gb\NDItem.edf 1eef8c6e4e94911bf03efc5c41c4f5dfef635a66
 DataTable\en-gb\NDItemCash.edf 46042a8d1949a761a82343611e84bc22c7418e15
 DataTable\en-gb\NDLanguage.edf 2f8f145ba07d5549cb8e238148bdc0eb33e34b01
 DataTable\en-gb\NDMap.edf 5c4f1fd6fa33f2a765cc2afeb2f5befafc724fb9
@@ -180,7 +180,7 @@ DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 244a08ff526ba1285a7ab17cb3aa1ec16f3c0870
 DataTable\en-ph\NDEventShip.edf ed1171f79b6202a4b55b787d1f11efbd0f4e8051
-DataTable\en-ph\NDItem.edf 135fa7aa1de6d8586b16700dbe6fa39caa47d901
+DataTable\en-ph\NDItem.edf 1eef8c6e4e94911bf03efc5c41c4f5dfef635a66
 DataTable\en-ph\NDItemCash.edf 46042a8d1949a761a82343611e84bc22c7418e15
 DataTable\en-ph\NDLanguage.edf 2f8f145ba07d5549cb8e238148bdc0eb33e34b01
 DataTable\en-ph\NDMap.edf 5c4f1fd6fa33f2a765cc2afeb2f5befafc724fb9
@@ -197,12 +197,12 @@ DataTable\en-ph\ui.lang a0016e32a3d66c492ce065ddf736b02a5ad0507d
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf b6423024dcc4e6e0b480456dfe050092b9ad6d18
-DataTable\Item.edf aab6e72af8218ec25e24d5f6040448490463d90d
+DataTable\Item.edf 3c531121ac94e2501d497ff60166c69caef72f67
 DataTable\ItemCash.edf 59b7ff05ca3efa6e086d54a59e32eb68c9835989
 DataTable\ItemCombine.edf 8056ab7bd9f24774cd894f9f1a9c202169cf9097
 DataTable\ItemPremium.edf b0b96a00f4afb1ee6dcb2a4dfaaa7398c1d47bda
 DataTable\ItemSetEffect.edf 48ebf9ab0d7b1b207721bc7b83927340cc1c42c9
-DataTable\ItemTimer.edf 3666a5bada9c8aa0b2d01e42949712d119642e2a
+DataTable\ItemTimer.edf 91cdfe2cd5d1545f857bbd0f50a11e93e2aee862
 DataTable\Map.edf e5e9144495035948c9fd1e2aa32cc296ea6b6a6d
 DataTable\MsgEvent.edf 58812b8763e4b6f6542fccfa6dc06dba3d56e8d2
 DataTable\PlayerCharacter.edf 5da84080768410bda80c795da57adde039b75aac
