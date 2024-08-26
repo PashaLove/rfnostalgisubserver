@@ -487,7 +487,7 @@ DataTable\en-gb\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
 DataTable\en-gb\NDMsgMonster.edf d2728adb08cf0f2e3c3dd67546701be37505c389
 DataTable\en-gb\NDQuest.edf c32d4df191ecccca0e7972c45a2308f76d7b0f2d
 DataTable\en-gb\NDSkillForce.edf 841b9afa40c939d78e76f2194ada228efa090270
-DataTable\en-gb\NDStore.edf 2248e9d7e16b4b474a9702dd5281bbd2adf8f3f6
+DataTable\en-gb\NDStore.edf 3f27d0b14ef8c060651db687d907c9744705e749
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
@@ -533,7 +533,7 @@ DataTable\en-ph\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
 DataTable\en-ph\NDMsgMonster.edf d2728adb08cf0f2e3c3dd67546701be37505c389
 DataTable\en-ph\NDQuest.edf c32d4df191ecccca0e7972c45a2308f76d7b0f2d
 DataTable\en-ph\NDSkillForce.edf 841b9afa40c939d78e76f2194ada228efa090270
-DataTable\en-ph\NDStore.edf 2248e9d7e16b4b474a9702dd5281bbd2adf8f3f6
+DataTable\en-ph\NDStore.edf 3f27d0b14ef8c060651db687d907c9744705e749
 DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
@@ -554,7 +554,7 @@ DataTable\PlayerCharacter.edf 5da84080768410bda80c795da57adde039b75aac
 DataTable\Quest.edf 73550320ae5b6d4d59b49430264b9e6890396580
 DataTable\Resource.edf a96043e4d0de3a96ed6b84f745b851afe9c10ffd
 DataTable\SkillForce.edf 4752b85e744095c3da78e02839ea99479cfced37
-DataTable\Store.edf cc05d429ba7bd50ac330e9506c712ce9b2280b1c
+DataTable\Store.edf 199aca1c4d63a0f66acb477529293dabb6a9e64c
 Effect\EffectEntity63.rpk 59c867ef4d1ca809a944ddad29998a2c130d7147
 Effect\EffectEntity64.rpk 080a8683808d7a4f351861ce0d129193ba6d01d1
 Effect\EffectEntity65.rpk 59c867ef4d1ca809a944ddad29998a2c130d7147
