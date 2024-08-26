@@ -446,7 +446,6 @@ Chef\skin\cloak\4\cormale_a_cloak\spkl\spkl.r3e 9c61363bc0b65fb2d0274f3bc6052a62
 Chef\skin\cloak\4\cormale_a_cloak\spkl\spkl.r3m 8671541206b0fdac315a9036f997d1421a3b303b
 Chef\skin\cloak\4\cormale_a_cloak\spkl\spkl.r3t 5ff8cec485266b75b75123bcf1cff816fed152b1
 Chef\tex\env_t504.dds 917dcb89694a6f45fdea3fe550173c94a298b0d7
-d3d9.dll 639df72f400083a1ce3d09c6d7a03b56c415de92
 DataTable\Character.edf 64f294ddf8daa9809cdfbbd925bb3a748b6de583
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-gb\Apa.dic d35e3d88b81ad2510edb78f99076b76459b09d76
