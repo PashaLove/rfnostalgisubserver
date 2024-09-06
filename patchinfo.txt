@@ -1,6 +1,6 @@
 Anti-lag.rar 4cd419d929f72d7e58360ba822bc9c3308eea915
 d3d9.dll 42e77e7b57301e3f4abe1a2dd043dbda98577d3e
-DataTable\Character.edf b1fca03490f2ff087f1dbe18e36b94ac5ae38228
+DataTable\Character.edf 8bc7e50303302d213907fef4d64a9f31565466e6
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-gb\Apa.dic d35e3d88b81ad2510edb78f99076b76459b09d76
 DataTable\en-gb\ar.scp 3029a728a9f9abecb4429ebf8c41bb585537557a
@@ -76,7 +76,7 @@ DataTable\en-ph\KeyMap.dat c8d85fa03cc522bddae320c924c6f228143cd889
 DataTable\en-ph\KeyMap_NKM.dat d7486a452004849be889c638555b2614659700ff
 DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
-DataTable\en-ph\NDCharacter.edf 04cb44254ce2bb90e0f00249ca31539c8536ce4b
+DataTable\en-ph\NDCharacter.edf 9d281cefdb2b28b6024de7f4a86dcf960784656f
 DataTable\en-ph\NDEventShip.edf ed1171f79b6202a4b55b787d1f11efbd0f4e8051
 DataTable\en-ph\NDItem.edf 321913e56b3ec7fa477a25b39e570966a1fe44dd
 DataTable\en-ph\NDItemCash.edf acac24d5596ab46e98b0c83096c1b97b3cf98515
@@ -86,7 +86,7 @@ DataTable\en-ph\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
 DataTable\en-ph\NDMsgMonster.edf 19f9aea2b5e714eb16c11216a17a2610c9acafef
 DataTable\en-ph\NDQuest.edf c1fd9f3618c0cf18e6fd395baa0a24ee161e564e
 DataTable\en-ph\NDSkillForce.edf b9550b9ede0e7176104c3bfed32b238de280c9e7
-DataTable\en-ph\NDStore.edf b0d6f08ca3b2d04e60b4776c85c1fd6fdfb08902
+DataTable\en-ph\NDStore.edf 9d802c0e34bf95d1c098d73f9baab0ea3dfb5826
 DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
@@ -107,7 +107,7 @@ DataTable\PlayerCharacter.edf 5da84080768410bda80c795da57adde039b75aac
 DataTable\Quest.edf e298f23f17d80b9c64b27f495f2ca2fa23b5c6aa
 DataTable\Resource.edf 1dc5d6d97ef506fbbb66b422ffd110016ec1ef17
 DataTable\SkillForce.edf b89a93e6f702fa82a6f427f38f86a457be15066b
-DataTable\Store.edf dca5d543d9fdab3ede05ade6af9e32d81bc18fed
+DataTable\Store.edf 88749c8626f7376a7484c639553caabc2528da2d
 discord_game_sdk.dll 63b2383c12013dcd7bbee08a7f965148c14d9c9d
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
