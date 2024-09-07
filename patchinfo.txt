@@ -35,7 +35,7 @@ DataTable\en-gb\NDEventShip.edf ed1171f79b6202a4b55b787d1f11efbd0f4e8051
 DataTable\en-gb\NDItem.edf 51945ce7f4dfd1e550665757ae501bac27d4a3d2
 DataTable\en-gb\NDItemCash.edf e1b5d01d321e54619f62fd5a3ad1907cfe80090a
 DataTable\en-gb\NDLanguage.edf 92f7b2f5ab08fbf46a11c0f2f25c47a877c31d4e
-DataTable\en-gb\NDMap.edf 489268a3d0cb999d5895334b9b507bf8ac7d0b22
+DataTable\en-gb\NDMap.edf 6dbe1c5e81765a08936c10c1202e56fb4923a963
 DataTable\en-gb\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
 DataTable\en-gb\NDMsgMonster.edf 7d46d8590ed4706be3031427171241e1dff07b01
 DataTable\en-gb\NDQuest.edf 97ef9483fed771e9ef1ffa51177493be48e73420
@@ -81,7 +81,7 @@ DataTable\en-ph\NDEventShip.edf ed1171f79b6202a4b55b787d1f11efbd0f4e8051
 DataTable\en-ph\NDItem.edf 51945ce7f4dfd1e550665757ae501bac27d4a3d2
 DataTable\en-ph\NDItemCash.edf e1b5d01d321e54619f62fd5a3ad1907cfe80090a
 DataTable\en-ph\NDLanguage.edf 92f7b2f5ab08fbf46a11c0f2f25c47a877c31d4e
-DataTable\en-ph\NDMap.edf 489268a3d0cb999d5895334b9b507bf8ac7d0b22
+DataTable\en-ph\NDMap.edf 6dbe1c5e81765a08936c10c1202e56fb4923a963
 DataTable\en-ph\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
 DataTable\en-ph\NDMsgMonster.edf 7d46d8590ed4706be3031427171241e1dff07b01
 DataTable\en-ph\NDQuest.edf 97ef9483fed771e9ef1ffa51177493be48e73420
@@ -99,9 +99,9 @@ DataTable\Item.edf a122637818b8e0193c858711971497290aef3de8
 DataTable\ItemCash.edf 388d783181e66401a523c60e0ee2f248ffd9c9cb
 DataTable\ItemCombine.edf f6dffe70b25edfbf1e2adbb9946f8d0c8388a88e
 DataTable\ItemPremium.edf b0b96a00f4afb1ee6dcb2a4dfaaa7398c1d47bda
-DataTable\ItemSetEffect.edf 3f8751630d0241c40c6c6a17797f562ae93ae4b9
+DataTable\ItemSetEffect.edf 6cc22ed6e974e89935f97d708689eddeef4b973d
 DataTable\ItemTimer.edf bb4b8f0c7f0573dc1d00ce8e6c1c0a8aa26f52ec
-DataTable\Map.edf 21411860a3d2b001314decca99914b3eb094ddaf
+DataTable\Map.edf 554a76018bb08e0b8f78a003b3055b246de9875d
 DataTable\MsgEvent.edf 58812b8763e4b6f6542fccfa6dc06dba3d56e8d2
 DataTable\PlayerCharacter.edf 5da84080768410bda80c795da57adde039b75aac
 DataTable\Quest.edf 2c74e022ce84d52e4691da72bac5107ee8e4ef65
