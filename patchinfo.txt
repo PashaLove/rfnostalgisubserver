@@ -39,7 +39,7 @@ DataTable\en-gb\NDMap.edf 5c4f1fd6fa33f2a765cc2afeb2f5befafc724fb9
 DataTable\en-gb\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
 DataTable\en-gb\NDMsgMonster.edf 7d46d8590ed4706be3031427171241e1dff07b01
 DataTable\en-gb\NDQuest.edf 0637d0827168eafbfd1a5feef5c964b6b2281704
-DataTable\en-gb\NDSkillForce.edf b382cefdcb7664afa63f534c0582f216f82cd0f3
+DataTable\en-gb\NDSkillForce.edf f405f546bb93f83ad9f237724e434b8d2ed40613
 DataTable\en-gb\NDStore.edf badd40ad10187a312af35c07b7f5d0924823bfc1
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
@@ -85,7 +85,7 @@ DataTable\en-ph\NDMap.edf 5c4f1fd6fa33f2a765cc2afeb2f5befafc724fb9
 DataTable\en-ph\NDMsgEvent.edf 39cc6400a97e2919e63982640408423a1b7924da
 DataTable\en-ph\NDMsgMonster.edf 7d46d8590ed4706be3031427171241e1dff07b01
 DataTable\en-ph\NDQuest.edf 0637d0827168eafbfd1a5feef5c964b6b2281704
-DataTable\en-ph\NDSkillForce.edf b382cefdcb7664afa63f534c0582f216f82cd0f3
+DataTable\en-ph\NDSkillForce.edf f405f546bb93f83ad9f237724e434b8d2ed40613
 DataTable\en-ph\NDStore.edf badd40ad10187a312af35c07b7f5d0924823bfc1
 DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
@@ -106,7 +106,7 @@ DataTable\MsgEvent.edf 58812b8763e4b6f6542fccfa6dc06dba3d56e8d2
 DataTable\PlayerCharacter.edf 5da84080768410bda80c795da57adde039b75aac
 DataTable\Quest.edf a4d52f120694c236b759a6f5621140002c21a1a4
 DataTable\Resource.edf 1dc5d6d97ef506fbbb66b422ffd110016ec1ef17
-DataTable\SkillForce.edf 85a85d706f1f88f41fb19d920a62e9ce730b6c38
+DataTable\SkillForce.edf b7a89fe0bd8b8885d6b71f9e8c6aaffff33abec7
 DataTable\Store.edf 1b12fae2d8cbe089897a151356213bb72f901e66
 discord_game_sdk.dll 63b2383c12013dcd7bbee08a7f965148c14d9c9d
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
