@@ -95,7 +95,7 @@ DataTable\en-ph\ui.lang 4aaaeeda5c9984f6fb4d472e0a48dca1de7a8ce3
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 51838efa2a373de4624b16ba91cb779e336f98c6
-DataTable\Item.edf 9e259f1dbdc26d26bbac4763fd97a1c51077919f
+DataTable\Item.edf b0ba6fc966880c1e81f72b2b48543c2ebd9b1c3d
 DataTable\ItemCash.edf a507d148673402085d6e48c1f0c6c825480c52fb
 DataTable\ItemCombine.edf c9468d7582ad4abde0659a4ccf2c37ac57b8049b
 DataTable\ItemPremium.edf 09e923905a049c0461c841370031bc2a928a0814
