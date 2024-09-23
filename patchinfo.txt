@@ -1,5 +1,5 @@
 Anti-lag.rar 4cd419d929f72d7e58360ba822bc9c3308eea915
-d3d9.dll 42e77e7b57301e3f4abe1a2dd043dbda98577d3e
+d3d9.dll 15e3080643d6915e300fbbe151dcbe0b1d8fd08a
 DataTable\Character.edf 01c3f2f6a27e48dbe686c24ab743833266fa72a1
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-gb\Apa.dic d35e3d88b81ad2510edb78f99076b76459b09d76
@@ -45,7 +45,7 @@ DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
-DataTable\en-gb\ui.lang a0016e32a3d66c492ce065ddf736b02a5ad0507d
+DataTable\en-gb\ui.lang 4aaaeeda5c9984f6fb4d472e0a48dca1de7a8ce3
 DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\en-ph\Apa.dic d35e3d88b81ad2510edb78f99076b76459b09d76
@@ -91,7 +91,7 @@ DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
 DataTable\en-ph\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
-DataTable\en-ph\ui.lang a0016e32a3d66c492ce065ddf736b02a5ad0507d
+DataTable\en-ph\ui.lang 4aaaeeda5c9984f6fb4d472e0a48dca1de7a8ce3
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf 51838efa2a373de4624b16ba91cb779e336f98c6
