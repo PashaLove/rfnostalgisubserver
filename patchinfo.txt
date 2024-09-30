@@ -124,15 +124,6 @@ Map\Arena\sky\Arenasky.r3t 79ef7f87b4d8e6190ffd850c7caca6feebd26d68
 Map\Arena\sky\Arenasky.sef.r3e b3d908bae43b683dfbbd9f617a11ac8f8ab9cb63
 Map\Arena\sky\Arenasky.sef.r3m c20de9e77e95c8b1d722a6e99247520e6032c49b
 Map\Arena\sky\Arenasky.sef.r3t 3044dc44ab16ca682e8d4820393f067838f332f0
-Map\Elan2\elan2.BSP b6634e8b681c19dd61ba82f765e7300b78e6c863
-Map\Elan2\elan2.ebp b6634e8b681c19dd61ba82f765e7300b78e6c863
-Map\Elan2\elan2.r3m ec57203465d2d0a018ea7f315a6fd9e4c4d48732
-Map\Elan2\elan2.r3t 9b7da3e3f33ac2606ef0c1d99e5dae1c326b6fbf
-Map\Elan2\elan2.sef.BSP ed078303ae5b89f456030b1e0e419818f769eb88
-Map\Elan2\elan2Lgt.R3T 2f2219c64f3caddeb3143ac2325e088a605a3231
-Map\Elan2\sky\elan2sky.r3e 59bdaffb78ebf30d302ad8484c98f095cbdd92b9
-Map\Elan2\sky\elan2sky.r3m 1115bca5ddf99ca4244a4c5e732d24ec49d9f51e
-Map\Elan2\sky\elan2sky.r3t 1d22164bce8fa3f6efd4e278dd5f953dfc379767
 Map\Entity\eg\1\34.sef.R3E 897abb0c9ada11b60139fe3deb692e27e9730096
 Map\Entity\eg\1\34.sef.r3m d65bb55cf44e08426ef2245431c1e2541069c3a5
 Map\Entity\eg\1\34.sef.r3t 33fd3ea218e5c0c6a3798fc953ccedfac1410d01
