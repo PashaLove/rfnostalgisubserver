@@ -100,12 +100,6 @@ Character\Monster\Bone\PumpkinMan_3.BBX 751e9550b25f1f4c2b4f53f54412025b300c7ee5
 Character\Monster\Bone\PumpkinMan_3.bn 96bed91cde9c12c9fc9f88e001f633397f8deab8
 Character\Monster\Mesh\PumpkinMan_3.MSH da39a3ee5e6b4b0d3255bfef95601890afd80709
 Character\Monster\Mesh\PumpkinMan_3.sef.MSH 6a2acae32d372c67029620a7ef5a46f1ca7008dc
-Character\Monster\Tex\halloween_2.dds eae53505179242f5be0aa21bb3937df821893970
-Character\Monster\Tex\Pumpkin Man (1).dds ad40e5d1a7b78f72356540ac4be293f105b7fd85
-Character\Monster\Tex\Pumpkin Man (2).dds 370bbdc62aadf074356abf6e8a7a7fc3f0c8d431
-Character\Monster\Tex\Pumpkin Man (3).dds fbcee7b601f0a042d8a6ea41415aab4babae8bb3
-Character\Monster\Tex\Pumpkin Man (4).dds c32f7dfa9055d7ef5450b70a7a7256678512517a
-Character\Monster\Tex\Pumpkin Man (5).dds 319a66160fc506a075c61f7833467fed7b2b6cc6
 Character\Player\Ani\ACCRETIA_MELEE_ILLUSIONATTACK_RKNIFETHROW_00N.ANI 81c5fc9abfcd7685fa2cc8e024265bd3d71ccf66
 Character\Player\Ani\ACCRETIA_MELEE_PRESSURE_DAXE_00N.ANI e87ac2db8c055d7778de3b83fc735a9648fcfd7f
 Character\Player\Ani\ACCRETIA_MELEE_PRESSURE_DAXE_00N1.ANI 8b26a6ee3f816590dd8591c98c61570e20bf4b01
