@@ -1791,8 +1791,8 @@ Map\Sette\sky2\Settesky2.r3t 2788b96fd65692bebc0d01aa8c27be20ebccab63
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sirin-launcher.dll 1e40220e3464351b5d2fd21dd687a3b93e758459
 SpriteImage\common\Map\Arena_Field.spr 4b2d751aa1e33a417a6dba62975b4e97f6e9b964
-SpriteImage\en-gb\item.spr 2db17a56c0bb35dd4a968178e42cdf7411217f34
+SpriteImage\en-gb\item.spr 293a976d76d5719fc6bc2a4c58b43fbef566e877
 SpriteImage\en-gb\loading.spr 014e45ec54c0239a20bdd7f51ba05fa14eb15637
-SpriteImage\en-ph\item.spr 2db17a56c0bb35dd4a968178e42cdf7411217f34
+SpriteImage\en-ph\item.spr 293a976d76d5719fc6bc2a4c58b43fbef566e877
 SpriteImage\en-ph\loading.spr 014e45ec54c0239a20bdd7f51ba05fa14eb15637
 vc_redist.x86.exe ab4a97610b127d68c45311deabfbcd8aa7066f4b
