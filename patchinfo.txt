@@ -707,7 +707,7 @@ Chef\tex\REFLECTIONss.dds a660002bdf2f83121cc8448bb31335085a2bb506
 Chef\tex\REFLECTIONsss.dds 715a5149af446bf01824fc15a7a03ddfb2ca8ba8
 Chef\tex\STAFF_OR2.dds ddb5e59c2f8ffaf1a70cfaf26fa69afd8ea14fe0
 d3d9.dll 15e3080643d6915e300fbbe151dcbe0b1d8fd08a
-DataTable\Character.edf 98e06e301f8b8d545f2a9482933c9b52f31a875a
+DataTable\Character.edf 99f35f570bbdf3bf80f0ba16d0873ba7a58814b0
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-gb\Apa.dic d35e3d88b81ad2510edb78f99076b76459b09d76
 DataTable\en-gb\ar.scp 3029a728a9f9abecb4429ebf8c41bb585537557a
@@ -783,7 +783,7 @@ DataTable\en-ph\KeyMap.dat c8d85fa03cc522bddae320c924c6f228143cd889
 DataTable\en-ph\KeyMap_NKM.dat d7486a452004849be889c638555b2614659700ff
 DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
-DataTable\en-ph\NDCharacter.edf 2e9e5b9e82c8c256565537bb0a74fb860d80515a
+DataTable\en-ph\NDCharacter.edf bf052a07ff5ee7aa819e4bcf5b0925527034742a
 DataTable\en-ph\NDEventShip.edf 80ac6ab49c0ddd11bd46b260e0607b1492134fde
 DataTable\en-ph\NDItem.edf d927a5b012cfa1787142f9daada00cfe5fe910b4
 DataTable\en-ph\NDItemCash.edf 2bceb26db7bee6b2fb5e38f3b4bc943bdbb2f2f3
