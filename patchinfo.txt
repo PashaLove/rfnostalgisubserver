@@ -793,7 +793,7 @@ DataTable\en-ph\NDMsgEvent.edf 340a4d9d0a7117d979302e70ce3c7c1b19c8e9dc
 DataTable\en-ph\NDMsgMonster.edf 5f387ab2545bbc099a6663af942f636ce954cddd
 DataTable\en-ph\NDQuest.edf 90d8568d0c5b0dd38f9017327205c49dfcf5f157
 DataTable\en-ph\NDSkillForce.edf 53aecc8d26ebd06ba5356df3e7b6078b1905f116
-DataTable\en-ph\NDStore.edf 8abc36706b13ca443220976eb7a28c9b2914f4bd
+DataTable\en-ph\NDStore.edf 4f101ff5d5dd7014935121222d18c4582f69a0be
 DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
@@ -814,7 +814,7 @@ DataTable\PlayerCharacter.edf dd1c67393f0e5f0c2c537c73df15828b4c9f9e0f
 DataTable\Quest.edf 736cd26905c834af4691ff35861f5abd5ec9ed8d
 DataTable\Resource.edf 403b3653d9b8792cd201b4ae288c097048dfa5f1
 DataTable\SkillForce.edf de41ab9d8bebd206082c93d1812b26a99fdc20f4
-DataTable\Store.edf 9b91c0c18e2d1e71b35b4c07fd71df46c89729ab
+DataTable\Store.edf 7f69855ba8020b25c4f21bfdba672087abc7be18
 discord_game_sdk.dll 63b2383c12013dcd7bbee08a7f965148c14d9c9d
 Item\Armor\Ani\ACCRETIA_ARMOR_CLOAK_DEF4_ATTACK.ANI d1258fe62a9a5b09537f4c3b1de13e2b26422c1f
 Item\Armor\Ani\ACCRETIA_ARMOR_CLOAK_DEF4_DEFAULT.ANI f8942ba5e0a80c72319252f3d2e81f4f2b05ec64
