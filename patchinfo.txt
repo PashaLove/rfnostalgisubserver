@@ -739,7 +739,7 @@ DataTable\en-gb\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-gb\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-gb\NDCharacter.edf 97cff2d7b815be769ab939fb1ac229848e9fb9cb
 DataTable\en-gb\NDEventShip.edf 2095eddf3df02676392037dbbf3de0381e4340c6
-DataTable\en-gb\NDItem.edf 8feab8107ce1814e12e5dc401a366fc89c49df99
+DataTable\en-gb\NDItem.edf 384494fc47bbf15e5182d3613bddb9a3700a5120
 DataTable\en-gb\NDItemCash.edf c27733b792db7a631fd8412f53f02f485f86b50f
 DataTable\en-gb\NDLanguage.edf 6f75bae8f2ae83eb67c4123c7ae9c145dae22ac9
 DataTable\en-gb\NDMap.edf c2f31e0525539d2f978dd614f0205f49a51e0d80
@@ -747,7 +747,7 @@ DataTable\en-gb\NDMsgEvent.edf 340a4d9d0a7117d979302e70ce3c7c1b19c8e9dc
 DataTable\en-gb\NDMsgMonster.edf 6269207bc4f78428365944514b7cd7bb4078e45c
 DataTable\en-gb\NDQuest.edf 0e006ac94eb3547f63301a83e054324e66c5d0f0
 DataTable\en-gb\NDSkillForce.edf c004da196078154f35c8b5016014748fd7d9346c
-DataTable\en-gb\NDStore.edf 7b54bc86ef35b85b740fb11fd49354fdcebd57d3
+DataTable\en-gb\NDStore.edf 179f92a5750f988a6803d2c52b3dabd9ec821f55
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
@@ -785,7 +785,7 @@ DataTable\en-ph\LauncherMessage.ini dabe3ee975a7f4d8b3f700d1c37414708040d62f
 DataTable\en-ph\MAPDATA.DAT 377de38377e12a4bd91ffcc184d0f5a35eac6611
 DataTable\en-ph\NDCharacter.edf 97cff2d7b815be769ab939fb1ac229848e9fb9cb
 DataTable\en-ph\NDEventShip.edf 2095eddf3df02676392037dbbf3de0381e4340c6
-DataTable\en-ph\NDItem.edf 8feab8107ce1814e12e5dc401a366fc89c49df99
+DataTable\en-ph\NDItem.edf 384494fc47bbf15e5182d3613bddb9a3700a5120
 DataTable\en-ph\NDItemCash.edf c27733b792db7a631fd8412f53f02f485f86b50f
 DataTable\en-ph\NDLanguage.edf 6f75bae8f2ae83eb67c4123c7ae9c145dae22ac9
 DataTable\en-ph\NDMap.edf c2f31e0525539d2f978dd614f0205f49a51e0d80
@@ -793,7 +793,7 @@ DataTable\en-ph\NDMsgEvent.edf 340a4d9d0a7117d979302e70ce3c7c1b19c8e9dc
 DataTable\en-ph\NDMsgMonster.edf 6269207bc4f78428365944514b7cd7bb4078e45c
 DataTable\en-ph\NDQuest.edf 0e006ac94eb3547f63301a83e054324e66c5d0f0
 DataTable\en-ph\NDSkillForce.edf c004da196078154f35c8b5016014748fd7d9346c
-DataTable\en-ph\NDStore.edf 7b54bc86ef35b85b740fb11fd49354fdcebd57d3
+DataTable\en-ph\NDStore.edf 179f92a5750f988a6803d2c52b3dabd9ec821f55
 DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\policy.txt 7705f6d39783ee7a4eb06a04c87ef285c8dc9ea5
@@ -802,9 +802,9 @@ DataTable\en-ph\ui.lang 4aaaeeda5c9984f6fb4d472e0a48dca1de7a8ce3
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-ph\WORLDMAPDATA.DAT 54b1261b5d6f3002352f9f77e1567c6eb0903985
 DataTable\EventShip.edf c86795946a2a99806a661c8cf0dddd5a2245c861
-DataTable\Item.edf e1a44985b9efa5bf683b95e14b2072f4d0c094e2
+DataTable\Item.edf cf7ed14156b557a6de202ab56cdea877298fd643
 DataTable\ItemCash.edf 4a4007046505ac67a3300f9343d4c2d84edffd36
-DataTable\ItemCombine.edf 2801c8446275c12017e1273c702a7ec8707f85f5
+DataTable\ItemCombine.edf c3ff505599d6b3b393da4e581ebe1f11fff1983c
 DataTable\ItemPremium.edf 4675a3b1cba453861717f7e96623185a960a3478
 DataTable\ItemSetEffect.edf 15786e90fe0ae4f6fa5cf4da06f0f9dbe73c382f
 DataTable\ItemTimer.edf ca0298dc1b9efa2a1e96a9b0b836ecaae994b5fe
@@ -814,7 +814,7 @@ DataTable\PlayerCharacter.edf dd1c67393f0e5f0c2c537c73df15828b4c9f9e0f
 DataTable\Quest.edf b22eca9468356cb9f08bb60ef2ae5b44ba541563
 DataTable\Resource.edf 91ea91d6f0d8aff0aaf9de9922067ca43e57306e
 DataTable\SkillForce.edf 207f1a1efae5dd408b697c1c001bc221452534c7
-DataTable\Store.edf 0eff29d230a8c8e4156dc8de14c87ece90bda7db
+DataTable\Store.edf c367dace4777d3979e9c6e6172d9f6e9094e5810
 discord_game_sdk.dll 63b2383c12013dcd7bbee08a7f965148c14d9c9d
 Item\Armor\Ani\ACCRETIA_ARMOR_CLOAK_DEF4_ATTACK.ANI d1258fe62a9a5b09537f4c3b1de13e2b26422c1f
 Item\Armor\Ani\ACCRETIA_ARMOR_CLOAK_DEF4_DEFAULT.ANI f8942ba5e0a80c72319252f3d2e81f4f2b05ec64
